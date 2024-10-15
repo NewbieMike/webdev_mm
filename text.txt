@@ -1,0 +1,10 @@
+Mission Statement
+
+“At WEBDEV Michał Micherda, our mission is to empower businesses and individuals by crafting innovative websites and web applications that enhance user experience and drive growth. We specialize in creating tailored MES systems that streamline operations and improve efficiency. We are committed to delivering high-quality solutions that meet our clients' unique needs, ensuring their digital presence is both functional and aesthetically pleasing.”
+Core Values
+
+    Innovation: We embrace new technologies and creative solutions to stay at the forefront of the digital landscape.
+    Quality: We are dedicated to delivering high-quality products and services that exceed our clients' expectations.
+    Integrity: We conduct our business with honesty and transparency, building trust with our clients and partners.
+    Collaboration: We believe in working closely with our clients to understand their needs and provide tailored solutions.
+    Continuous Improvement: We strive for excellence by constantly seeking feedback and learning from our experiences.
